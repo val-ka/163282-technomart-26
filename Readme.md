@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Valentina Kanevska](https://up.htmlacademy.ru/htmlcss/26/user/163282).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Китаев](https://htmlacademy.ru/profile/id23243).
 
 ---
 
